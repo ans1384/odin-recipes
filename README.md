@@ -1,2 +1,1 @@
-# odin-recipes
-Odin Recipes
+This is is a project to practice my early HTML and CSS skills. Through this project, I will build an initial structure and multiple iterations for my website, create new content, and practice committing early and often.
